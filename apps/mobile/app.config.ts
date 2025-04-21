@@ -24,7 +24,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
       projectId: "9bbd3491-2452-43b2-a7f4-6fe037622dd8",
     },
   },
-  owner: "follow",
+  owner: "oowl",
   updates: {
     url: "https://u.expo.dev/9bbd3491-2452-43b2-a7f4-6fe037622dd8",
   },
