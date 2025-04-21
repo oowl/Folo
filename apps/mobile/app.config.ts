@@ -21,12 +21,12 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
 
   extra: {
     eas: {
-      projectId: "a6335b14-fb84-45aa-ba80-6f6ab8926920",
+      projectId: "9bbd3491-2452-43b2-a7f4-6fe037622dd8",
     },
   },
   owner: "follow",
   updates: {
-    url: "https://u.expo.dev/a6335b14-fb84-45aa-ba80-6f6ab8926920",
+    url: "https://u.expo.dev/9bbd3491-2452-43b2-a7f4-6fe037622dd8",
   },
   runtimeVersion: {
     policy: "appVersion",
