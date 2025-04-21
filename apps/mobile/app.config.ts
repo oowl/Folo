@@ -33,7 +33,6 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
   },
 
   name: "Folo",
-  slug: "follow",
   version: PKG.version,
   orientation: "portrait",
   icon: iconPath,
